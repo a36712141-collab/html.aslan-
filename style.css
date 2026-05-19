@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: #313131;
+    text-align:center;
+    padding: 24px 0;
+}
+main{
+    background: #141415;
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    padding-top: 58px;
+}
+a{
+    font-weight: 700;
+    font-size: 15px;
+    color: #51acff;
+    text-decoration: none;
+    margin-top: 203px;
+    margin-bottom: 23px;
+}
+.box{
+   display: flex; 
+   justify-content: center;
+   gap: 100px;
+   padding-bottom: 50px;
+}
+.boss-1{
+    background: #313131;
+}
+.boss-2{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 30px;
+}
+.piko{
+    font-weight: 500;
+    font-size: 10px;
+    text-align: center;
+    color: #7d7d7d;
+    padding-top: 50px;
+}
+.pika{
+    font-weight: 400;
+    font-size: 10px;
+    text-align: center;
+    color: #7d7d7d;
+    padding-top: 40px;
+}
+.aslan-0{
+    padding-top: 50px;
+}
+    
